@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="steveAndWozAndGuitar" size="1.000000 0.938235" />
+    <ImageTarget name="Apple2" size="1.000000 0.671667" />
+    <ImageTarget name="danielAndSteve" size="1.000000 1.382199" />
+    <ImageTarget name="JobsAndWoz" size="1.000000 0.532258" />
+    <ImageTarget name="PaulJobsWithSteve" size="1.000000 1.339695" />
+    <ImageTarget name="bookCover" size="1.000000 1.500000" />
+  </Tracking>
+</QCARConfig>
